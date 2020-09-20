@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-thanks:https://github.com/anuraghazra/github-readme-stats
+        https://github.com/athul/waka-readme
+
 -->
 
 
