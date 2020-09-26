@@ -38,17 +38,17 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/LJoson">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LJoson&show_icons=true&include_all_commits=true&theme=tokyonight" alt="LJoson's github stats" />
 </a>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/LJoson">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LJoson&layout=compact&theme=tokyonight" />
 </a>
 <br>
 </a>    
-<a href="https://ljoson.github.io/">
+<a href="https://lj_evan.gitee.io/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=LJoson&repo=ljoson.github.io&theme=tokyonight" />
 </a>
