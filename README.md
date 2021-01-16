@@ -8,7 +8,7 @@
  📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-
+Markdown     1 min           ████████████████░░░░░░░░░   63.57 % 
 ```
 <!--END_SECTION:waka-->
 -------
