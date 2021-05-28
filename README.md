@@ -8,7 +8,7 @@
  📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java     8 mins          ██████████████████████▒░░   89.20 % 
 ```
 <!--END_SECTION:waka-->
 -------
