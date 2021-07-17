@@ -8,7 +8,7 @@
  📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Markdown     7 mins          █████████████████████▒░░░   85.14 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 -------
