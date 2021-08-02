@@ -8,7 +8,7 @@
  📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python   3 mins          ████████████████████████▓   98.91 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 -------
