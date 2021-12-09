@@ -8,8 +8,7 @@
  📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python     9 mins          ██████████████████▓░░░░░░   74.02 % 
-Markdown   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 -------
