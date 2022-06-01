@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm LJoson.</h2>
 <p align="center">
-  <a href="https://lj_evan.gitee.io">Blog</a> •
+  <a href="https://ljoson.github.io/">Blog</a> •
   <a href="https://github.com/LJoson">Github</a> •
   <a href="https://blog.csdn.net/qq_43743037">CSDN</a>
 </p>
