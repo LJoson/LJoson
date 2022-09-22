@@ -17,11 +17,12 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Steps represent a sequence of tasks that will be executed as part of the job
+          
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
