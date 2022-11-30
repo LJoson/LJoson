@@ -8,6 +8,19 @@
  📊 **LJoson's development breakdown**
 <!--START_SECTION:waka-->
 
+```text
+From: 03 February 2020 - To: 29 November 2022
+
+Total Time: 514 hrs 49 mins
+
+Python                     137 hrs 51 mins >>>>>>>------------------   26.78 %
+Markdown                   121 hrs 35 mins >>>>>>-------------------   23.62 %
+Java                       47 hrs 27 mins  >>-----------------------   09.22 %
+C++                        46 hrs 34 mins  >>-----------------------   09.05 %
+C                          32 hrs 35 mins  >>-----------------------   06.33 %
+JavaScript                 29 hrs 50 mins  >------------------------   05.80 %
+```
+
 <!--END_SECTION:waka-->
 -------
 
