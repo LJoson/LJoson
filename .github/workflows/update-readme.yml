@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Vincentqyw
+          github_user_name: LJoson
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -51,6 +51,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ->
-          TIME_RANGE: all_time
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
