@@ -5,7 +5,7 @@
   <a href="https://blog.csdn.net/qq_43743037">CSDN</a>
 </p>
 
- 📊 **Weekly development breakdown**
+ 📊 **LJoson's development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
