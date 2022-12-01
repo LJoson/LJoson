@@ -9,14 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-Total Time: 4 hrs 5 mins
+Total Time: 2 hrs 25 mins
 
-Python     3 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.19 %
-YAML       8 mins          >------------------------   03.61 %
-C++        2 mins          -------------------------   01.11 %
-Other      0 secs          -------------------------   00.39 %
+Python     2 hrs 22 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.25 %
+C++        3 mins          >------------------------   02.69 %
+Other      0 secs          -------------------------   00.47 %
 ```
 
 <!--END_SECTION:waka-->
