@@ -9,12 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-Total Time: 2 mins
+Total Time: 4 mins
 
-C++        3 mins          >>>>>>>>>>>>>>>>>--------   69.20 %
-Other      0 secs          >>>----------------------   12.20 %
+C++          3 mins          >>>>>>>>>>>>>------------   52.08 %
+Docker       0 secs          >>>----------------------   12.09 %
+Text         0 secs          >>-----------------------   08.34 %
+Python       0 secs          >>-----------------------   07.88 %
+CMake        0 secs          >>-----------------------   07.20 %
+Markdown     0 secs          >------------------------   05.46 %
 ```
 
 <!--END_SECTION:waka-->
