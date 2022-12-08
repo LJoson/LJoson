@@ -9,12 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 06 December 2022
+From: 30 November 2022 - To: 07 December 2022
 
-Total Time: 2 hrs 9 mins
+Total Time: 4 hrs 15 mins
 
-C++          1 hr 26 mins    >>>>>>>>>>>>>>>>---------   65.79 %
-Other        28 mins         >>>>>--------------------   21.73 %
+C++          3 hrs 1 min     >>>>>>>>>>>>>>>>>>-------   70.89 %
+CMake        30 mins         >>>----------------------   11.75 %
+Other        28 mins         >>>----------------------   11.27 %
 ```
 
 <!--END_SECTION:waka-->
