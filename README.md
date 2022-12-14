@@ -9,13 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 12 December 2022
+From: 06 December 2022 - To: 13 December 2022
 
-Total Time: 3 hrs 3 mins
+Total Time: 3 hrs 23 mins
 
-C++        1 hr 45 mins    >>>>>>>>>>>>>>-----------   57.83 %
-CMake      30 mins         >>>>---------------------   16.41 %
-Other      28 mins         >>>>---------------------   15.54 %
+CMake      1 hr 47 mins    >>>>>>>>>>>>>------------   52.61 %
+C++        36 mins         >>>>---------------------   17.69 %
+C          22 mins         >>>----------------------   10.89 %
+Markdown   15 mins         >>-----------------------   07.85 %
+Python     11 mins         >------------------------   05.41 %
+XML        8 mins          >------------------------   04.32 %
 ```
 
 <!--END_SECTION:waka-->
