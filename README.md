@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-Total Time: 5 hrs 22 mins
+Total Time: 5 hrs 42 mins
 
-reStructuredText   1 hr 45 mins    >>>>>>>>-----------------   32.68 %
-CMake              1 hr 27 mins    >>>>>>>------------------   27.01 %
-Markdown           33 mins         >>>----------------------   10.37 %
-C                  21 mins         >>-----------------------   06.72 %
-Batchfile          16 mins         >------------------------   05.21 %
-Text               14 mins         >------------------------   04.52 %
+reStructuredText   1 hr 45 mins    >>>>>>>>-----------------   30.77 %
+CMake              1 hr 27 mins    >>>>>>-------------------   25.44 %
+Markdown           32 mins         >>-----------------------   09.50 %
+C                  21 mins         >>-----------------------   06.33 %
+JSON               18 mins         >------------------------   05.32 %
+Batchfile          16 mins         >------------------------   04.90 %
 ```
 
 <!--END_SECTION:waka-->
