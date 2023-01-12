@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/LJoson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LJoson&show_icons=true&include_all_commits=true&theme=tokyonight" alt="LJoson's github stats" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LJoson&show_icons=true&include_all_commits=true&theme=tokyonight" alt="LJoson's github stats" />
 </a>
 <br>
 <a href="https://github.com/LJoson">
