@@ -9,14 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 18 January 2023
+From: 12 January 2023 - To: 19 January 2023
 
-Total Time: 1 hr 39 mins
+Total Time: 34 mins
 
-CMake        39 mins         >>>>>>>>>>---------------   39.80 %
-Markdown     36 mins         >>>>>>>>>----------------   36.89 %
-Bash         13 mins         >>>----------------------   13.73 %
-Other        5 mins          >------------------------   05.68 %
+Markdown     20 mins         >>>>>>>>>>>>>>>----------   58.74 %
+Bash         13 mins         >>>>>>>>>>---------------   39.43 %
+JavaScript   0 secs          -------------------------   00.97 %
+Text         0 secs          -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
