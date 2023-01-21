@@ -9,14 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
-
-Total Time: 34 mins
-
-Markdown     20 mins         >>>>>>>>>>>>>>>----------   58.74 %
-Bash         13 mins         >>>>>>>>>>---------------   39.43 %
-JavaScript   0 secs          -------------------------   00.97 %
-Text         0 secs          -------------------------   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
