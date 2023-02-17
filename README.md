@@ -9,16 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-Total Time: 1 hr 29 mins
+Total Time: 30 mins
 
-YAML         34 mins         >>>>>>>>>----------------   37.94 %
-HTML         27 mins         >>>>>>>>-----------------   30.15 %
-C++          21 mins         >>>>>>-------------------   23.68 %
-Python       2 mins          >------------------------   02.85 %
-Markdown     2 mins          >------------------------   02.69 %
-JavaScript   1 min           -------------------------   01.57 %
+HTML         27 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.67 %
+Markdown     1 min           >------------------------   05.38 %
+JavaScript   1 min           >------------------------   04.57 %
+JSON         0 secs          >------------------------   02.13 %
+Other        0 secs          -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
