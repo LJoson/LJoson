@@ -9,13 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-Total Time: 18 mins
+Total Time: 1 hr 27 mins
 
-C          16 mins         >>>>>>>>>>>>>>>>>>>>>----   85.68 %
-Markdown   2 mins          >>>>---------------------   14.10 %
-Bash       0 secs          -------------------------   00.22 %
+Bash       42 mins         >>>>>>>>>>>>-------------   48.58 %
+Python     27 mins         >>>>>>>>-----------------   31.35 %
+C          16 mins         >>>>>--------------------   18.41 %
+Markdown   1 min           -------------------------   01.66 %
 ```
 
 <!--END_SECTION:waka-->
