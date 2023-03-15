@@ -9,16 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2023 - To: 13 March 2023
+From: 07 March 2023 - To: 14 March 2023
 
-Total Time: 3 hrs 12 mins
+Total Time: 3 hrs 6 mins
 
-Python     1 hr 58 mins    >>>>>>>>>>>>>>>----------   61.36 %
-Bash       47 mins         >>>>>>-------------------   24.62 %
-Markdown   18 mins         >>-----------------------   09.52 %
-C          6 mins          >------------------------   03.43 %
-CMake      1 min           -------------------------   00.84 %
-Other      0 secs          -------------------------   00.23 %
+Python     1 hr 58 mins    >>>>>>>>>>>>>>>>---------   63.49 %
+Bash       47 mins         >>>>>>-------------------   25.47 %
+Markdown   18 mins         >>-----------------------   09.85 %
+CMake      1 min           -------------------------   00.95 %
+Other      0 secs          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
