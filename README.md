@@ -9,16 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2023 - To: 21 March 2023
+From: 15 March 2023 - To: 22 March 2023
 
-Total Time: 1 hr 55 mins
+Total Time: 1 hr 35 mins
 
-C++           1 hr 15 mins    >>>>>>>>>>>>>>>>---------   65.47 %
-Markdown      20 mins         >>>>---------------------   17.65 %
-C             9 mins          >>-----------------------   08.64 %
-Python        8 mins          >>-----------------------   07.52 %
-MATLAB        0 secs          -------------------------   00.39 %
-CMake         0 secs          -------------------------   00.21 %
+C++        1 hr 4 mins     >>>>>>>>>>>>>>>>>--------   67.92 %
+Markdown   20 mins         >>>>>--------------------   21.37 %
+C          9 mins          >>>----------------------   10.46 %
+CMake      0 secs          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
