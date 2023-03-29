@@ -9,12 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2023 - To: 27 March 2023
-
-Total Time: 8 mins
-
-C++   7 mins          >>>>>>>>>>>>>>>>>>>>>>---   89.85 %
-C     0 secs          >>>----------------------   10.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
