@@ -9,13 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
-Total Time: 54 mins
+Total Time: 1 hr 6 mins
 
-Python   48 mins         >>>>>>>>>>>>>>>>>>>>>>---   88.99 %
-C++      5 mins          >>>----------------------   10.85 %
-Bash     0 secs          -------------------------   00.16 %
+Python     56 mins         >>>>>>>>>>>>>>>>>>>>>----   84.70 %
+C++        6 mins          >>-----------------------   09.64 %
+Text       2 mins          >------------------------   03.18 %
+YAML       0 secs          -------------------------   01.32 %
+Markdown   0 secs          -------------------------   01.03 %
+Bash       0 secs          -------------------------   00.13 %
 ```
 
 <!--END_SECTION:waka-->
