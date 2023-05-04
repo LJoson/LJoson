@@ -9,7 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 April 2023 - To: 03 May 2023
+
+Total Time: 1 hr
+
+Python   1 hr            >>>>>>>>>>>>>>>>>>>>>>>>>   99.74 %
+Other    0 secs          -------------------------   00.26 %
 ```
 
 <!--END_SECTION:waka-->
