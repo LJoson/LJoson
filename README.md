@@ -9,15 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-Total Time: 3 hrs 20 mins
+Total Time: 56 mins
 
-Python   2 hrs 14 mins   >>>>>>>>>>>>>>>>>--------   67.06 %
-CMake    37 mins         >>>>>--------------------   18.89 %
-C++      14 mins         >>-----------------------   07.43 %
-YAML     8 mins          >------------------------   04.46 %
-Bash     4 mins          >------------------------   02.15 %
+CMake   37 mins         >>>>>>>>>>>>>>>>>--------   67.40 %
+C++     14 mins         >>>>>>>------------------   26.09 %
+Bash    3 mins          >>-----------------------   06.51 %
 ```
 
 <!--END_SECTION:waka-->
