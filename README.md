@@ -9,13 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2023 - To: 25 May 2023
-
-Total Time: 56 mins
-
-CMake   37 mins         >>>>>>>>>>>>>>>>>--------   67.40 %
-C++     14 mins         >>>>>>>------------------   26.09 %
-Bash    3 mins          >>-----------------------   06.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
