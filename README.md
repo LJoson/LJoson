@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 25 May 2023 - To: 01 June 2023
+
+Total Time: 5 mins
+
+C++   5 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
