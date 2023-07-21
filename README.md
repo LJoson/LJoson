@@ -9,7 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 July 2023 - To: 20 July 2023
+
+Total Time: 3 mins
+
+C++      1 min           >>>>>>>>>>>>>>>----------   58.21 %
+Python   1 min           >>>>>>>>>>---------------   39.45 %
+C        0 secs          >------------------------   02.34 %
 ```
 
 <!--END_SECTION:waka-->
