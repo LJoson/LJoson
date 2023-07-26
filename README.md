@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-Total Time: 3 mins
+Total Time: 7 mins
 
-C++      1 min           >>>>>>>>>>>>>>>----------   58.21 %
-Python   1 min           >>>>>>>>>>---------------   39.45 %
-C        0 secs          >------------------------   02.34 %
+C++      6 mins          >>>>>>>>>>>>>>>>>>>>>----   82.28 %
+Python   1 min           >>>>---------------------   16.73 %
+C        0 secs          -------------------------   00.99 %
 ```
 
 <!--END_SECTION:waka-->
