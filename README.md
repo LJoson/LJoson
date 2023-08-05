@@ -9,15 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2023 - To: 03 August 2023
+From: 28 July 2023 - To: 04 August 2023
 
-Total Time: 51 mins
+Total Time: 57 mins
 
-Markdown     37 mins         >>>>>>>>>>>>>>>>>>-------   73.14 %
-JavaScript   5 mins          >>>----------------------   10.43 %
-CMake        3 mins          >------------------------   05.81 %
-XML          2 mins          >------------------------   04.15 %
-Other        1 min           >------------------------   02.80 %
+Markdown     37 mins         >>>>>>>>>>>>>>>>---------   65.35 %
+C++          7 mins          >>>----------------------   13.14 %
+JavaScript   5 mins          >>-----------------------   09.32 %
+CMake        3 mins          >------------------------   05.19 %
+XML          2 mins          >------------------------   03.71 %
+Other        1 min           >------------------------   02.50 %
 ```
 
 <!--END_SECTION:waka-->
