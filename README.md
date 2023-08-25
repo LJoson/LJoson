@@ -9,7 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 17 August 2023 - To: 24 August 2023
+
+Total Time: 6 mins
+
+Markdown     4 mins          >>>>>>>>>>>>>>>>>>-------   73.29 %
+JavaScript   1 min           >>>>>>>------------------   26.71 %
 ```
 
 <!--END_SECTION:waka-->
