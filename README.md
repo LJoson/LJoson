@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Total Time: 9 hrs 44 mins
+Total Time: 9 hrs 41 mins
 
-YAML               4 hrs 20 mins   >>>>>>>>>>>--------------   44.47 %
-Python             2 hrs 5 mins    >>>>>--------------------   21.40 %
-Markdown           1 hr 40 mins    >>>>---------------------   17.25 %
-CMake              36 mins         >>-----------------------   06.28 %
-C++                35 mins         >>-----------------------   06.09 %
-C                  16 mins         >------------------------   02.74 %
+YAML               4 hrs 20 mins   >>>>>>>>>>>--------------   44.74 %
+Python             2 hrs 5 mins    >>>>>--------------------   21.53 %
+Markdown           1 hr            >>>----------------------   10.38 %
+XML                36 mins         >>-----------------------   06.35 %
+CMake              36 mins         >>-----------------------   06.33 %
+C++                35 mins         >>-----------------------   06.13 %
 ```
 
 <!--END_SECTION:waka-->
