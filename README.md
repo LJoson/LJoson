@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-Total Time: 3 hrs 26 mins
+Total Time: 10 hrs 4 mins
 
-XML            1 hr 49 mins    >>>>>>>>>>>>>------------   52.92 %
-JavaScript     48 mins         >>>>>>-------------------   23.42 %
-Markdown       22 mins         >>>----------------------   11.07 %
-GDScript       8 mins          >------------------------   04.35 %
-YAML           7 mins          >------------------------   03.80 %
-CMake          3 mins          -------------------------   01.86 %
+JavaScript                 4 hrs 19 mins   >>>>>>>>>>>--------------   42.91 %
+JSON                       1 hr 56 mins    >>>>>--------------------   19.20 %
+XML                        1 hr 18 mins    >>>----------------------   13.04 %
+Markdown                   54 mins         >>-----------------------   09.01 %
+HTML                       28 mins         >------------------------   04.73 %
+SCSS                       18 mins         >------------------------   03.06 %
 ```
 
 <!--END_SECTION:waka-->
