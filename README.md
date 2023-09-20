@@ -9,16 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2023 - To: 18 September 2023
-
-Total Time: 7 hrs 14 mins
-
-JavaScript                 3 hrs 30 mins   >>>>>>>>>>>>-------------   48.53 %
-JSON                       1 hr 55 mins    >>>>>>>------------------   26.49 %
-Markdown                   31 mins         >>-----------------------   07.27 %
-HTML                       28 mins         >>-----------------------   06.57 %
-SCSS                       18 mins         >------------------------   04.26 %
-Python                     8 mins          >------------------------   02.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
