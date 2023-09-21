@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 September 2023 - To: 20 September 2023
+
+Total Time: 6 mins
+
+Markdown   6 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
