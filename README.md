@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
-Total Time: 6 mins
+Total Time: 33 mins
 
-Markdown   6 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Markdown   14 mins         >>>>>>>>>>---------------   41.47 %
+C++        11 mins         >>>>>>>>-----------------   33.44 %
+Ezhil      4 mins          >>>----------------------   12.00 %
+C          4 mins          >>>----------------------   11.99 %
+Bash       0 secs          -------------------------   01.09 %
 ```
 
 <!--END_SECTION:waka-->
