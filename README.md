@@ -9,15 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 September 2023 - To: 25 September 2023
+From: 19 September 2023 - To: 26 September 2023
 
-Total Time: 33 mins
+Total Time: 1 hr 58 mins
 
-Markdown   14 mins         >>>>>>>>>>---------------   41.47 %
-C++        11 mins         >>>>>>>>-----------------   33.44 %
-Ezhil      4 mins          >>>----------------------   12.00 %
-C          4 mins          >>>----------------------   11.99 %
-Bash       0 secs          -------------------------   01.09 %
+C++         1 hr 20 mins    >>>>>>>>>>>>>>>>>--------   68.47 %
+Markdown    14 mins         >>>----------------------   11.90 %
+GDScript3   6 mins          >------------------------   05.62 %
+C           6 mins          >------------------------   05.14 %
+JSON        6 mins          >------------------------   05.12 %
+Ezhil       4 mins          >------------------------   03.44 %
 ```
 
 <!--END_SECTION:waka-->
