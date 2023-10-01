@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2023 - To: 29 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
-Total Time: 5 hrs 44 mins
+Total Time: 5 hrs 16 mins
 
-Python      3 hrs 25 mins   >>>>>>>>>>>>>>>----------   59.60 %
-C++         1 hr 20 mins    >>>>>>-------------------   23.51 %
-Markdown    22 mins         >>-----------------------   06.55 %
-GDScript3   6 mins          -------------------------   01.93 %
-JSON        6 mins          -------------------------   01.77 %
-C           6 mins          -------------------------   01.76 %
+Python      3 hrs 25 mins   >>>>>>>>>>>>>>>>---------   64.81 %
+C++         1 hr 9 mins     >>>>>--------------------   21.98 %
+Markdown    14 mins         >------------------------   04.65 %
+GDScript3   6 mins          >------------------------   02.10 %
+JSON        6 mins          -------------------------   01.93 %
+Other       6 mins          -------------------------   01.91 %
 ```
 
 <!--END_SECTION:waka-->
