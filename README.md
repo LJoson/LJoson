@@ -8,17 +8,14 @@
  📊 **LJoson's development breakdown**
 <!--START_SECTION:waka-->
 
-```text
-From: 25 September 2023 - To: 02 October 2023
+```txt
+From: 18 October 2023 - To: 25 October 2023
 
-Total Time: 5 hrs 16 mins
+Total Time: 12 mins
 
-Python      3 hrs 25 mins   >>>>>>>>>>>>>>>>---------   64.81 %
-C++         1 hr 9 mins     >>>>>--------------------   21.98 %
-Markdown    14 mins         >------------------------   04.65 %
-GDScript3   6 mins          >------------------------   02.10 %
-JSON        6 mins          -------------------------   01.93 %
-Other       6 mins          -------------------------   01.91 %
+Markdown   10 mins         >>>>>>>>>>>>>>>>>>>>>----   82.80 %
+C++        1 min           >>>----------------------   12.44 %
+CMake      0 secs          >------------------------   04.75 %
 ```
 
 <!--END_SECTION:waka-->
