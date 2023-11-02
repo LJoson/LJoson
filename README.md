@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-Total Time: 2 hrs 40 mins
+Total Time: 3 hrs 26 mins
 
-C++          2 hrs 29 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.30 %
-XML          2 mins          -------------------------   01.54 %
-Markdown     1 min           -------------------------   01.22 %
-YAML         1 min           -------------------------   01.06 %
-Cuda         1 min           -------------------------   01.03 %
+C++          3 hrs 5 mins    >>>>>>>>>>>>>>>>>>>>>>---   89.84 %
+Markdown     11 mins         >------------------------   05.42 %
+JavaScript   2 mins          -------------------------   01.26 %
+XML          2 mins          -------------------------   01.19 %
+YAML         1 min           -------------------------   00.82 %
 ```
 
 <!--END_SECTION:waka-->
