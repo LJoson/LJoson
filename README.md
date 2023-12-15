@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-Total Time: 2 hrs 53 mins
+Total Time: 3 hrs 9 mins
 
-Markdown     1 hr 7 mins     >>>>>>>>>>---------------   38.73 %
-JavaScript   54 mins         >>>>>>>>-----------------   31.47 %
-CMake        26 mins         >>>>---------------------   15.14 %
-C++          12 mins         >>-----------------------   07.40 %
-Vue.js       12 mins         >>-----------------------   07.00 %
+Markdown     1 hr 7 mins     >>>>>>>>>----------------   35.41 %
+JavaScript   54 mins         >>>>>>>------------------   28.77 %
+C++          26 mins         >>>>---------------------   14.16 %
+CMake        26 mins         >>>----------------------   13.84 %
+Vue.js       12 mins         >>-----------------------   06.40 %
 ```
 
 <!--END_SECTION:waka-->
