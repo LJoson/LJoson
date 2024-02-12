@@ -9,15 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
-Total Time: 41 mins
+Total Time: 2 mins
 
-Markdown     13 mins         >>>>>>>>-----------------   31.53 %
-JavaScript   11 mins         >>>>>>>------------------   27.98 %
-YAML         9 mins          >>>>>>-------------------   23.83 %
-JSON         6 mins          >>>>---------------------   14.89 %
-XML          0 secs          -------------------------   00.79 %
+Markdown   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
