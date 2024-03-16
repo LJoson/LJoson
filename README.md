@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-Total Time: 4 hrs 16 mins
+Total Time: 3 hrs 22 mins
 
-Markdown     3 hrs 4 mins    >>>>>>>>>>>>>>>>>>-------   72.05 %
-C++          18 mins         >>-----------------------   07.34 %
-Python       14 mins         >------------------------   05.62 %
-CMake        13 mins         >------------------------   05.12 %
-YAML         12 mins         >------------------------   04.75 %
+Markdown     2 hrs 43 mins   >>>>>>>>>>>>>>>>>>>>-----   80.74 %
+CMake        13 mins         >>-----------------------   06.50 %
+C++          11 mins         >------------------------   05.67 %
+Python       5 mins          >------------------------   02.79 %
+Other        4 mins          >------------------------   02.36 %
 ```
 
 <!--END_SECTION:waka-->
