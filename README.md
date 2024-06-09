@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
-Total Time: 1 hr 59 mins
+Total Time: 1 hr 44 mins
 
-Python       1 hr 49 mins    >>>>>>>>>>>>>>>>>>>>>>>--   91.64 %
-JavaScript   3 mins          >------------------------   03.16 %
-Bash         1 min           -------------------------   01.66 %
-JSON         1 min           -------------------------   01.48 %
-CSV          0 secs          -------------------------   00.74 %
+Python       1 hr 34 mins    >>>>>>>>>>>>>>>>>>>>>>>--   90.47 %
+JavaScript   3 mins          >------------------------   03.61 %
+Bash         1 min           -------------------------   01.89 %
+JSON         1 min           -------------------------   01.69 %
+CSV          0 secs          -------------------------   00.84 %
 ```
 
 <!--END_SECTION:waka-->
