@@ -9,15 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2024 - To: 30 September 2024
+From: 24 September 2024 - To: 01 October 2024
 
-Total Time: 2 hrs 22 mins
+Total Time: 27 mins
 
-Python       2 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>>---   88.85 %
-Git          9 mins          >>-----------------------   06.69 %
-Markdown     5 mins          >------------------------   04.13 %
-Other        0 secs          -------------------------   00.32 %
-Git Config   0 secs          -------------------------   00.01 %
+Python     12 mins         >>>>>>>>>>>--------------   43.71 %
+Git        9 mins          >>>>>>>>>----------------   34.46 %
+Markdown   5 mins          >>>>>--------------------   21.27 %
+Other      0 secs          -------------------------   00.56 %
 ```
 
 <!--END_SECTION:waka-->
