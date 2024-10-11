@@ -9,11 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 0 secs
+Total Time: 11 hrs 48 mins
 
-No activity tracked
+Python     11 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>>--   93.35 %
+YAML       14 mins         -------------------------   01.99 %
+Markdown   11 mins         -------------------------   01.65 %
+Text       10 mins         -------------------------   01.51 %
+Other      8 mins          -------------------------   01.21 %
 ```
 
 <!--END_SECTION:waka-->
