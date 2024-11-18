@@ -9,13 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-Total Time: 46 mins
+Total Time: 10 hrs 42 mins
 
-Markdown     45 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   97.22 %
-Python       0 secs          -------------------------   01.58 %
-JavaScript   0 secs          -------------------------   01.20 %
+Python       9 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.01 %
+Markdown     1 hr 5 mins     >>>----------------------   10.19 %
+YAML         11 mins         -------------------------   01.71 %
+JavaScript   0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
