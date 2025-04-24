@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2025 - To: 22 April 2025
+From: 16 April 2025 - To: 23 April 2025
 
-Total Time: 9 hrs 14 mins
+Total Time: 13 hrs 18 mins
 
-Markdown          4 hrs 26 mins   >>>>>>>>>>>>-------------   47.98 %
-Groovy            54 mins         >>-----------------------   09.83 %
-C++               32 mins         >------------------------   05.89 %
-Java Properties   31 mins         >------------------------   05.72 %
-Other             29 mins         >------------------------   05.30 %
+Markdown            7 hrs 34 mins   >>>>>>>>>>>>>>-----------   56.92 %
+Groovy              1 hr 26 mins    >>>----------------------   10.82 %
+Java Properties     1 hr 19 mins    >>-----------------------   09.99 %
+Dart                41 mins         >------------------------   05.17 %
+Other               29 mins         >------------------------   03.69 %
 ```
 
 <!--END_SECTION:waka-->
