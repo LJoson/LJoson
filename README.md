@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2025 - To: 29 April 2025
+From: 23 April 2025 - To: 30 April 2025
 
-Total Time: 36 hrs 22 mins
+Total Time: 34 hrs 51 mins
 
-Markdown            26 hrs 39 mins  >>>>>>>>>>>>>>>>>>-------   73.29 %
-Python              4 hrs 12 mins   >>>----------------------   11.56 %
-YAML                51 mins         >------------------------   02.38 %
-Java Properties     48 mins         >------------------------   02.20 %
-TypeScript          43 mins         >------------------------   02.01 %
+Markdown      25 hrs 51 mins  >>>>>>>>>>>>>>>>>>>------   74.18 %
+Python        4 hrs 53 mins   >>>>---------------------   14.03 %
+YAML          46 mins         >------------------------   02.24 %
+TypeScript    43 mins         >------------------------   02.10 %
+JSON          36 mins         -------------------------   01.75 %
 ```
 
 <!--END_SECTION:waka-->
