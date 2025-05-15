@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2025 - To: 13 May 2025
+From: 07 May 2025 - To: 14 May 2025
 
-Total Time: 14 hrs 4 mins
+Total Time: 16 hrs 16 mins
 
-Markdown   11 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>-----   79.05 %
-Python     1 hr 40 mins    >>>----------------------   11.88 %
-C++        1 hr 11 mins    >>-----------------------   08.44 %
-Other      3 mins          -------------------------   00.42 %
-Text       1 min           -------------------------   00.21 %
+Markdown      12 hrs 5 mins   >>>>>>>>>>>>>>>>>>>------   74.31 %
+Python        2 hrs 16 mins   >>>>---------------------   14.02 %
+C++           1 hr            >>-----------------------   06.16 %
+YAML          26 mins         >------------------------   02.73 %
+Image (svg)   15 mins         -------------------------   01.59 %
 ```
 
 <!--END_SECTION:waka-->
