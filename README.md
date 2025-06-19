@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-Total Time: 35 hrs 55 mins
+Total Time: 34 hrs 14 mins
 
-Markdown      12 hrs 42 mins  >>>>>>>>>----------------   35.36 %
-Dart          11 hrs 28 mins  >>>>>>>>-----------------   31.94 %
-Other         5 hrs 11 mins   >>>>---------------------   14.48 %
-Python        4 hrs 57 mins   >>>----------------------   13.80 %
-C++           51 mins         >------------------------   02.38 %
+Markdown          11 hrs 14 mins  >>>>>>>>-----------------   32.84 %
+Dart              8 hrs 40 mins   >>>>>>-------------------   25.32 %
+Python            8 hrs 37 mins   >>>>>>-------------------   25.20 %
+Other             3 hrs 48 mins   >>>----------------------   11.12 %
+C++               56 mins         >------------------------   02.76 %
 ```
 
 <!--END_SECTION:waka-->
