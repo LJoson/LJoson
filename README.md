@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2025 - To: 29 June 2025
+From: 23 June 2025 - To: 30 June 2025
 
-Total Time: 21 hrs 31 mins
+Total Time: 18 hrs 32 mins
 
-Python       17 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>----   83.16 %
-Markdown     1 hr 57 mins    >>-----------------------   09.06 %
-Other        1 hr 10 mins    >------------------------   05.44 %
-Makefile     13 mins         -------------------------   01.08 %
-Git Config   9 mins          -------------------------   00.74 %
+Python       13 hrs 27 mins  >>>>>>>>>>>>>>>>>>-------   72.64 %
+Markdown     3 hrs 54 mins   >>>>>--------------------   21.08 %
+Other        46 mins         >------------------------   04.15 %
+Makefile     13 mins         -------------------------   01.26 %
+Git Config   9 mins          -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
