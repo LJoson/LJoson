@@ -9,15 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2025 - To: 14 July 2025
+From: 08 July 2025 - To: 15 July 2025
 
-Total Time: 4 hrs 35 mins
+Total Time: 5 hrs 30 mins
 
-Markdown   2 hrs 24 mins   >>>>>>>>>>>>>------------   52.42 %
-Other      1 hr 2 mins     >>>>>>-------------------   22.71 %
-Python     45 mins         >>>>---------------------   16.60 %
-C++        22 mins         >>-----------------------   08.26 %
-JSON       0 secs          -------------------------   00.01 %
+Markdown   3 hrs 13 mins   >>>>>>>>>>>>>>>----------   58.59 %
+Other      1 hr 8 mins     >>>>>--------------------   20.67 %
+Python     45 mins         >>>----------------------   13.85 %
+C++        22 mins         >>-----------------------   06.90 %
 ```
 
 <!--END_SECTION:waka-->
