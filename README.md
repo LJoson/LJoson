@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 10 August 2025
+From: 04 August 2025 - To: 11 August 2025
 
-Total Time: 1 hr 40 mins
+Total Time: 1 hr 31 mins
 
-Markdown    1 hr 24 mins    >>>>>>>>>>>>>>>>>>>>>----   84.35 %
-C++         11 mins         >>>----------------------   11.56 %
-CMake       3 mins          >------------------------   03.66 %
-Other       0 secs          -------------------------   00.36 %
+Markdown    1 hr 16 mins    >>>>>>>>>>>>>>>>>>>>>----   83.24 %
+C++         11 mins         >>>----------------------   12.67 %
+CMake       3 mins          >------------------------   04.01 %
 Bash        0 secs          -------------------------   00.04 %
+Batchfile   0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
