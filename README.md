@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 23 August 2025
+From: 17 August 2025 - To: 24 August 2025
 
-Total Time: 21 hrs 10 mins
+Total Time: 21 hrs 7 mins
 
-Markdown     7 hrs 43 mins   >>>>>>>>>----------------   36.48 %
-TypeScript   4 hrs 55 mins   >>>>>>-------------------   23.23 %
-C++          2 hrs 3 mins    >>-----------------------   09.75 %
-JSON         1 hr 39 mins    >>-----------------------   07.80 %
-Vue.js       1 hr 28 mins    >>-----------------------   06.93 %
+TypeScript   7 hrs 54 mins   >>>>>>>>>----------------   37.42 %
+Markdown     6 hrs 52 mins   >>>>>>>>-----------------   32.54 %
+JSON         1 hr 39 mins    >>-----------------------   07.82 %
+Vue.js       1 hr 28 mins    >>-----------------------   06.95 %
+Other        1 hr 19 mins    >>-----------------------   06.28 %
 ```
 
 <!--END_SECTION:waka-->
