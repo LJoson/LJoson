@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2025 - To: 02 September 2025
+From: 27 August 2025 - To: 03 September 2025
 
-Total Time: 49 hrs 24 mins
+Total Time: 42 hrs 18 mins
 
-Rust         12 hrs 34 mins  >>>>>>-------------------   25.46 %
-Markdown     10 hrs 37 mins  >>>>>--------------------   21.50 %
-TypeScript   8 hrs 48 mins   >>>>---------------------   17.83 %
-Other        4 hrs 44 mins   >>-----------------------   09.59 %
-Python       4 hrs 12 mins   >>-----------------------   08.53 %
+Rust         12 hrs 34 mins  >>>>>>>------------------   29.73 %
+TypeScript   7 hrs 32 mins   >>>>---------------------   17.83 %
+Markdown     5 hrs 50 mins   >>>----------------------   13.82 %
+Python       4 hrs 12 mins   >>-----------------------   09.96 %
+Other        3 hrs 40 mins   >>-----------------------   08.70 %
 ```
 
 <!--END_SECTION:waka-->
