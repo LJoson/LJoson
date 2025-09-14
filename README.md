@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
-Total Time: 27 hrs 44 mins
+Total Time: 21 hrs 4 mins
 
-Markdown     21 hrs 6 mins   >>>>>>>>>>>>>>>>>>>------   76.08 %
-Python       3 hrs 24 mins   >>>----------------------   12.30 %
-PowerShell   1 hr 21 mins    >------------------------   04.89 %
-CMake        57 mins         >------------------------   03.48 %
-Other        19 mins         -------------------------   01.19 %
+Markdown     19 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.77 %
+PowerShell   1 hr 21 mins    >>-----------------------   06.43 %
+Other        19 mins         -------------------------   01.56 %
+JSON         1 min           -------------------------   00.13 %
+TypeScript   0 secs          -------------------------   00.05 %
 ```
 
 <!--END_SECTION:waka-->
