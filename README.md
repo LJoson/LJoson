@@ -9,15 +9,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Total Time: 4 hrs 43 mins
+Total Time: 4 hrs 9 mins
 
-Markdown   4 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.92 %
-Python     12 mins         >------------------------   04.35 %
-CMake      4 mins          -------------------------   01.58 %
-JSON       4 mins          -------------------------   01.47 %
-Other      2 mins          -------------------------   00.93 %
+Markdown   3 hrs 52 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.40 %
+Python     12 mins         >------------------------   04.92 %
+JSON       4 mins          -------------------------   01.68 %
+CMake      0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
