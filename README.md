@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2026 - To: 26 March 2026
+From: 20 March 2026 - To: 27 March 2026
 
-Total Time: 1 hr 25 mins
+Total Time: 1 hr 3 mins
 
-Markdown      46 mins               >>>>>>>>>>>>>>-----------   54.91 %
-JSON          30 mins               >>>>>>>>>----------------   35.74 %
-Other         7 mins                >>-----------------------   08.61 %
-Objective-C   0 secs                -------------------------   00.55 %
-INI           0 secs                -------------------------   00.18 %
+JSON          30 mins               >>>>>>>>>>>>-------------   47.88 %
+Markdown      25 mins               >>>>>>>>>>---------------   39.60 %
+Other         7 mins                >>>----------------------   11.53 %
+Objective-C   0 secs                -------------------------   00.74 %
+INI           0 secs                -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
