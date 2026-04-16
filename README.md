@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2026 - To: 14 April 2026
+From: 08 April 2026 - To: 15 April 2026
 
-Total Time: 24 hrs 52 mins
+Total Time: 22 hrs 47 mins
 
-C++           13 hrs 35 mins        >>>>>>>>>>>>>>-----------   54.63 %
-Objective-C   10 hrs 45 mins        >>>>>>>>>>>--------------   43.22 %
-Other         18 mins               -------------------------   01.24 %
-Markdown      10 mins               -------------------------   00.70 %
-INI           2 mins                -------------------------   00.15 %
+C++           13 hrs 7 mins         >>>>>>>>>>>>>>-----------   57.57 %
+Objective-C   9 hrs 14 mins         >>>>>>>>>>---------------   40.56 %
+Other         14 mins               -------------------------   01.08 %
+Markdown      10 mins               -------------------------   00.76 %
+C             0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
