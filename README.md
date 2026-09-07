@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2026 - To: 05 September 2026
+From: 30 August 2026 - To: 06 September 2026
 
-Total Time: 20 hrs 5 mins
+Total Time: 19 hrs 16 mins
 
-Markdown      20 hrs 1 min          >>>>>>>>>>>>>>>>>>>>>>>>>   99.70 %
-C++           2 mins                -------------------------   00.22 %
-Other         0 secs                -------------------------   00.08 %
+Markdown      19 hrs 13 mins        >>>>>>>>>>>>>>>>>>>>>>>>>   99.71 %
+C++           2 mins                -------------------------   00.23 %
+Other         0 secs                -------------------------   00.06 %
 Objective-C   0 secs                -------------------------   00.00 %
 ```
 
