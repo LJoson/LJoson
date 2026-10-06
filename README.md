@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2026 - To: 04 October 2026
+From: 28 September 2026 - To: 05 October 2026
 
-Total Time: 6 hrs 22 mins
+Total Time: 6 hrs 34 mins
 
-C++           1 hr 35 mins          >>>>>>-------------------   25.02 %
-JSON          1 hr 34 mins          >>>>>>-------------------   24.68 %
-Other         1 hr 8 mins           >>>>---------------------   17.95 %
-Markdown      44 mins               >>>----------------------   11.54 %
-C#            38 mins               >>>----------------------   10.04 %
+C++           1 hr 35 mins          >>>>>>-------------------   24.31 %
+JSON          1 hr 34 mins          >>>>>>-------------------   23.89 %
+Other         1 hr 11 mins          >>>>>--------------------   18.22 %
+Markdown      49 mins               >>>----------------------   12.50 %
+C#            41 mins               >>>----------------------   10.64 %
 ```
 
 <!--END_SECTION:waka-->
